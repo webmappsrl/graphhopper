@@ -1,10 +1,3 @@
-config-lunet.yml
-Oggi
-09:19
-
-Tu hai caricato un elemento
-File sconosciuto
-config-lunet.yml
 graphhopper:
 
   # OpenStreetMap input file PBF or XML, can be changed via command line -Ddw.graphhopper.datareader.file=some.pbf
